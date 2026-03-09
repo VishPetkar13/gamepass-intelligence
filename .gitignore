@@ -1,0 +1,22 @@
+# Virtual environment
+gamer/
+
+# Environment Variables
+.env 
+
+#Python
+__pycache__/
+*.pyc
+
+#Jupyter
+.ipynb_checkpoints/
+
+# Data - raw files are large and should not be committed
+data/raw/
+
+#IDE
+.vscode/
+
+#OS files
+Thumbs.db
+.DS_Store
